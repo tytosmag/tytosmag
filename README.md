@@ -21,7 +21,7 @@ Fullstack-разработчик / DevOps-инженер с фокусом на 
 ## 🛠️ Toolset
 
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express, SQL, ORM
+- **Backend:** Node.js, Express, SQL, ORM, REST API
 - **Базы данных:** PostgreSQL, MySQL, MongoDB
 - **CI/CD и automation:** GitLab CI, GitHub Actions, Git, Bash, Terraform, Ansible
 - **Monitoring / alerting:** Loki, Prometheus, Grafana
