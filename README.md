@@ -9,7 +9,7 @@
 ![Virtualization](https://img.shields.io/badge/Virtualization-LXC/LXD%20%7C%20Proxmox-E57000?logo=proxmox&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Learning-326CE5?logo=kubernetes&logoColor=white)
 
-## 👨‍💻 About me
+## 📝 About me
 
 Я Сергей Анищенко, Fullstack-разработчик / DevOps-инженер с фокусом на Linux-инфраструктуру, CI/CD, контейнеризацию. Совмещаю backend/frontend-разработку с эксплуатацией, автоматизацией, мониторингом и сопровождением production-like окружений.
 
@@ -30,5 +30,6 @@
 - **Сейчас изучаю:** Kubernetes
 
 ## 🌐 Find Me Online
+- 🧑‍💻 [github.com/tytosmag](https://github.com/tytosmag)  
 - 📧 [tytosmag@gmail.com](mailto:tytosmag@gmail.com)  
 - 💬 [telegram](https://t.me/tytosmag)
