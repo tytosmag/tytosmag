@@ -30,7 +30,8 @@
 - **Сейчас изучаю:** Kubernetes
 
 ## ✍️ Blog
-Пишу технические заметки про DevOps, Linux, Docker, CI/CD и инфраструктуру.  
+Веду блог про DevOps, Linux, Docker, CI/CD, GitHub Actions, серверы и автоматизацию.  
+Публикую практические заметки, инструкции, production-ready конфиги и разборы ошибок из реальных проектов.  
 Читать блог: [https://blog.tytosmag.ru](https://blog.tytosmag.ru)  
 
 ## 🌐 Find Me Online
