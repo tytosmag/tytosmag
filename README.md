@@ -31,7 +31,7 @@
 
 ## ✍️ Blog
 Пишу технические заметки про DevOps, Linux, Docker, CI/CD и инфраструктуру.  
-Читать блог: [https://blog.tytosmag.ru](blog.tytosmag.ru)  
+Читать блог: [https://blog.tytosmag.ru](https://blog.tytosmag.ru)  
 
 ## 🌐 Find Me Online
 - 🧑‍💻 [github.com/tytosmag](https://github.com/tytosmag)  
