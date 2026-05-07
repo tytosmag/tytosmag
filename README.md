@@ -29,6 +29,10 @@
 - **Linux administration:** Ubuntu, Debian, CentOS
 - **Сейчас изучаю:** Kubernetes
 
+## ✍️ Blog
+Пишу технические заметки про DevOps, Linux, Docker, CI/CD и инфраструктуру.  
+Читать блог: [https://blog.tytosmag.ru](blog.tytosmag.ru)  
+
 ## 🌐 Find Me Online
 - 🧑‍💻 [github.com/tytosmag](https://github.com/tytosmag)  
 - 📧 [tytosmag@gmail.com](mailto:tytosmag@gmail.com)  
